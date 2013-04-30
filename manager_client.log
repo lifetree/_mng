@@ -1,0 +1,1154 @@
+Thu Apr 11 2013 13:56:40 GMT+0900 (대한민국 표준시)
+
+help
+
+help()
+
+start log :Thu Apr 11 2013 13:58:17 GMT+0900 (대한민국 표준시)
+help
+help()
+start log :Thu Apr 11 2013 14:15:17 GMT+0900 (대한민국 표준시)
+dbConnectPocketwars()
+help()
+c1 = 'kickass_login'
+doc1 = {}
+field1 = {}
+find(c1, doc1, field1)
+doc1 = {id:'요조'}
+find(c1, doc1, field1)
+start log :Thu Apr 11 2013 14:35:49 GMT+0900 (대한민국 표준시)
+help()
+count
+count()
+count('kickass_login',{})
+dbConnectPocketwars()
+count('kickass_login',{})
+start log :Thu Apr 11 2013 16:36:55 GMT+0900 (대한민국 표준시)
+start log :Thu Apr 11 2013 16:37:19 GMT+0900 (대한민국 표준시)
+start log :Thu Apr 11 2013 16:42:05 GMT+0900 (대한민국 표준시)
+start log :Thu Apr 11 2013 16:44:01 GMT+0900 (대한민국 표준시)
+help()
+start log :Thu Apr 11 2013 16:44:51 GMT+0900 (대한민국 표준시)
+help()
+start log :Thu Apr 11 2013 16:46:04 GMT+0900 (대한민국 표준시)
+help()
+request
+request()
+start log :Thu Apr 11 2013 16:53:37 GMT+0900 (대한민국 표준시)
+help()
+db_pocketwars_connect
+db_pocketwars_connect()
+c1 = 'kickass_login'
+d1 = {}
+f1 = {}
+find(c1, d1, f1)
+db_rage_connect()
+c2 = 'rage_login'
+find(c2, d1, f1)
+find(c1, d1, f1)
+db_mobidig_connect()
+c3 = 'mobidig_login'
+find(c3, d1, f1)
+start log :Thu Apr 11 2013 17:08:38 GMT+0900 (대한민국 표준시)
+help()
+db_mobidig_connect
+db_mobidig_connect()
+c1 = 'mobidig_login'
+d1 = {}
+f1 = {}
+find(c1, d1, f1)
+count(c1,d1)
+start log :Thu Apr 11 2013 17:16:17 GMT+0900 (대한민국 표준시)
+help()
+setHost('www.google.com')
+request()
+start log :Thu Apr 11 2013 17:18:52 GMT+0900 (대한민국 표준시)
+request('www.google.com')
+start log :Thu Apr 11 2013 17:19:34 GMT+0900 (대한민국 표준시)
+request('www.google.com')
+start log :Thu Apr 11 2013 17:20:39 GMT+0900 (대한민국 표준시)
+setHost('www.google.com')
+request()
+start log :Thu Apr 11 2013 17:22:01 GMT+0900 (대한민국 표준시)
+request('www.google.com')
+acClientHttp
+console.log(acClientHttp)
+acClientHttp.host
+acClientHttp.host.toString()
+acClientHttp.reqInfo.host
+start log :Thu Apr 11 2013 17:26:59 GMT+0900 (대한민국 표준시)
+request('www.google.com')
+request('www.naver.com')
+start log :Thu Apr 11 2013 18:16:20 GMT+0900 (대한민국 표준시)
+help()
+do_rage_connect()
+db_rage_connect()
+db_pocketwars_connect()
+c1 = 'rage_login'
+c2 = 'kickass_login'
+d1 = {}
+f1 = {}
+find(c1, d1, f1)
+find(c2, d1, f1)
+request('www.google.com')
+start log :Thu Apr 11 2013 18:19:44 GMT+0900 (대한민국 표준시)
+db_mobidig_connect()
+help()
+db_mobidig_find_login()
+start log :Thu Apr 11 2013 18:21:24 GMT+0900 (대한민국 표준시)
+db_mobidig_connect()
+db_mobidig_login_find()
+db_mobidig_login_find
+db_mobidig_find_login()
+db_mobidig_find_login('tester80')
+start log :Fri Apr 12 2013 10:07:33 GMT+0900 (대한민국 표준시)
+acClientCmd.add('test',function(a,b) { return a+b; })
+help()
+test
+test(1,2)
+print(test(1,2))
+a = test(1,3)
+a
+print(a)
+start log :Fri Apr 12 2013 10:09:06 GMT+0900 (대한민국 표준시)
+help
+help()
+a = function(a,b) { return a+b; }
+a
+a(1,2)
+a(3,4)
+1 + 2
+123 * 4565
+acClientCmd
+start log :Fri Apr 12 2013 10:12:21 GMT+0900 (대한민국 표준시)
+help()
+db_pocketwars_connect
+db_pocketwars_connect()
+db.kickass_login.find({})
+db.kickass_login
+db.kickass_login.find()
+start log :Fri Apr 12 2013 10:14:49 GMT+0900 (대한민국 표준시)
+db
+help()
+db_pocketwars_connect
+db_pocketwars_connect()
+db
+start log :Fri Apr 12 2013 10:15:50 GMT+0900 (대한민국 표준시)
+db
+db_pocketwars_connect()
+db
+db['kickass_login'].find()
+db['kickass_login'].find
+find('kickasa_login',{},{})
+find('kickass_login',{},{})
+db.kickass_login2
+db.kickass_login
+db.kickass_login.find()
+db.kickass_login.find().toArray()
+a = db.kickass_login.find({})
+a
+db
+db.kickass_rank_weektop10.find()
+db.kickass_rank_weektop10.count()
+db.kickass_rank_weektop10
+db.kickass_rank_weektop10.count
+db.kickass_rank_weektop10.count()
+db.kickass_rank_weektop10.count({})
+start log :Fri Apr 12 2013 10:24:21 GMT+0900 (대한민국 표준시)
+db
+db.kickass_loign
+db.kickass_login
+db_pocketwars_connect()
+db.kickass_login
+db.kickass_login.find().toArray(function(err,doc){ console.log(doc); })
+start log :Sat Apr 13 2013 19:56:53 GMT+0900 (대한민국 표준시)
+help()
+start log :Sat Apr 13 2013 19:57:13 GMT+0900 (대한민국 표준시)
+requre('./http_rage.js')
+require('./http_rage.js')
+help()
+http_rage_server_start
+http_rage_server_start()
+require('./http_rage.js')
+http_rage_server_start()
+http_rage_server_start
+require('./http_rage.js')
+help()
+http_rage_server_start
+http_rage_server_start()
+print(http_rage)
+start log :Sat Apr 13 2013 20:00:46 GMT+0900 (대한민국 표준시)
+require('http_rage.js')
+require('h./ttp_rage.js')
+require('./http_rage.js')
+help()
+http_rage_server_start
+http_rage_server_start()
+http_rage.init()
+help()
+http_rage_server_start
+http_rage_server_start()
+exit
+start log :Sat Apr 13 2013 20:49:48 GMT+0900 (대한민국 표준시)
+help()
+http_rage_server_start
+http_rage_server_start()
+start log :Sat Apr 13 2013 20:50:58 GMT+0900 (대한민국 표준시)
+help()
+http_rage_server_start()
+start log :Sat Apr 13 2013 21:11:32 GMT+0900 (대한민국 표준시)
+http_rage.test()
+help()
+start log :Sat Apr 13 2013 21:12:30 GMT+0900 (대한민국 표준시)
+http_rage.test()
+http_rage.test()
+start log :Sat Apr 13 2013 21:15:20 GMT+0900 (대한민국 표준시)
+http_rage.test()
+start log :Sat Apr 13 2013 21:16:09 GMT+0900 (대한민국 표준시)
+http_rage.test()
+start log :Sat Apr 13 2013 21:17:51 GMT+0900 (대한민국 표준시)
+http_rage.test()
+start log :Sat Apr 13 2013 23:09:33 GMT+0900 (대한민국 표준시)
+help()
+http_rage_server_update()
+start log :Sat Apr 13 2013 23:16:37 GMT+0900 (대한민국 표준시)
+help()
+http_rage_server_update('./','http_rage.js','../_starter_update/','test2.j')
+start log :Sun Apr 14 2013 00:12:24 GMT+0900 (대한민국 표준시)
+http_rage.batchStart
+http_rage.batchStart()
+http_rage.batch
+start log :Sun Apr 14 2013 00:14:02 GMT+0900 (대한민국 표준시)
+http_rage.batchStart()
+start log :Sun Apr 14 2013 00:18:02 GMT+0900 (대한민국 표준시)
+http_rage.batchStart()
+http_rage.update
+http_rage.batchStart()
+start log :Sun Apr 14 2013 00:23:04 GMT+0900 (대한민국 표준시)
+http_rage.batchStart()
+start log :Sun Apr 14 2013 00:25:19 GMT+0900 (대한민국 표준시)
+http_rage.batchStart()
+start log :Sun Apr 14 2013 00:26:02 GMT+0900 (대한민국 표준시)
+http_rage.batchStart()
+start log :Sun Apr 14 2013 00:27:40 GMT+0900 (대한민국 표준시)
+http_rage.batchStart()
+http_rage.batchStart()
+start log :Sun Apr 14 2013 01:06:29 GMT+0900 (대한민국 표준시)
+http_rage.batchStart()
+start log :Sun Apr 14 2013 16:39:43 GMT+0900 (대한민국 표준시)
+process
+__filename
+__path
+process.chdir()
+process.chdir
+path
+path = require('path')
+path
+path.resolve('./', '../_ac')
+path.resolove()
+path.resolve()
+acUtil.path
+process.cwd()
+process.pid
+process.memoryUsage
+process.memoryUsage()
+acUtil.os.cpus().length
+process.chdir('..')
+process.cwd()
+start log :Sun Apr 14 2013 20:04:25 GMT+0900 (대한민국 표준시)
+http_rage.batchStartStartFromFile()
+start log :Sun Apr 14 2013 20:07:03 GMT+0900 (대한민국 표준시)
+http_rage.batchStartStartFromFile()
+http_rage.batchUpdateStartFromFile()
+http_rage.batchStartStartFromFile()
+start log :Sun Apr 14 2013 20:22:06 GMT+0900 (대한민국 표준시)
+http_rage.batchRestartStartFromTest()
+http_rage.batchRestartStartFromTest()
+http_rage.batchRestartStartFromTest()
+http_rage.batchRestartStartFromTest()
+http_rage.batchRestartStartFromTest()
+start log :Sun Apr 14 2013 22:27:06 GMT+0900 (대한민국 표준시)
+process.cwd()
+__filename
+__path
+acClientJSS
+start log :Mon Apr 15 2013 02:29:09 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 02:29:11 GMT+0900 (대한민국 표준시)
+process.pid
+process.pid
+process.kill(4632)
+start log :Mon Apr 15 2013 02:31:25 GMT+0900 (대한민국 표준시)
+process.pid
+start log :Mon Apr 15 2013 02:43:01 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 02:43:35 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 02:46:55 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 02:47:33 GMT+0900 (대한민국 표준시)
+process.pid
+start log :Mon Apr 15 2013 03:01:27 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 03:03:57 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 03:07:58 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 03:10:02 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 03:10:47 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 03:18:30 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 03:18:51 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 03:18:56 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 03:30:45 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 04:23:40 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 04:23:45 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 04:23:52 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 05:31:32 GMT+0900 (대한민국 표준시)
+acUtil.tasklist('node.exe',null,function(pid,list){console.log(list);})
+start log :Mon Apr 15 2013 05:35:22 GMT+0900 (대한민국 표준시)
+exit
+start log :Mon Apr 15 2013 05:47:59 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 05:55:53 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 06:18:53 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 06:19:41 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 06:20:59 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 06:23:00 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 06:26:57 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 06:27:26 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 06:37:20 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 14:18:21 GMT+0900 (대한민국 표준시)
+hlep
+help
+help()
+console.log('a')
+start log :Mon Apr 15 2013 14:19:07 GMT+0900 (대한민국 표준시)
+help
+help()
+console.log('a')
+x = function() {console.log('a')}
+x
+x()
+b = [1,2,3,]
+123 * 234
+b
+typeof b
+start log :Mon Apr 15 2013 14:20:40 GMT+0900 (대한민국 표준시)
+123 * 1234
+b = [1,2,3,]
+b
+b[1]
+console.log('a')
+start log :Mon Apr 15 2013 14:21:48 GMT+0900 (대한민국 표준시)
+console.log('a')
+start log :Mon Apr 15 2013 14:22:20 GMT+0900 (대한민국 표준시)
+console.log('a')
+123 * 1234
+b = [12,3,4,]
+b
+help
+help()
+help
+start log :Mon Apr 15 2013 14:25:32 GMT+0900 (대한민국 표준시)
+help
+help()
+start log :Mon Apr 15 2013 14:27:27 GMT+0900 (대한민국 표준시)
+help
+help()
+start log :Mon Apr 15 2013 14:31:15 GMT+0900 (대한민국 표준시)
+help
+help()
+start log :Mon Apr 15 2013 14:31:44 GMT+0900 (대한민국 표준시)
+help()
+start log :Mon Apr 15 2013 18:09:09 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:13:02 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:13:23 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:14:10 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:14:45 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:27:27 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:27:51 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:29:28 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:30:35 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:38:19 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 15 2013 18:39:02 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 00:37:25 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 00:46:25 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 00:46:52 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 00:46:58 GMT+0900 (대한민국 표준시)
+process.kill(204, 'SIGHUP')
+process.kill('204', 'SIGHUP')
+process.kill(204)
+start log :Tue Apr 16 2013 00:48:51 GMT+0900 (대한민국 표준시)
+process.kill(3740,'SIGHUP')
+process.kill(3740,'SIGHUP')
+start log :Tue Apr 16 2013 00:51:05 GMT+0900 (대한민국 표준시)
+process.kill
+start log :Tue Apr 16 2013 00:52:38 GMT+0900 (대한민국 표준시)
+process.kill
+process.on
+process.isSignal
+isSignal
+process.isSignal()
+isSignal()
+start log :Tue Apr 16 2013 00:56:08 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 00:56:24 GMT+0900 (대한민국 표준시)
+process.kill(5812, 'SIGHUP')
+process.kill(5812, 'SIGHUP')
+process.kill
+start log :Tue Apr 16 2013 01:03:06 GMT+0900 (대한민국 표준시)
+process.kill(5724, 'SIGUSR1')
+process.kill(5724, 'SIGHUSR1')
+process.kill(5724, 'SIGHUSR2')
+process.kill('SIGHUSR2')
+process.kill('SIGHUSR1')
+start log :Tue Apr 16 2013 01:11:49 GMT+0900 (대한민국 표준시)
+process
+process.version
+process.kill
+start log :Tue Apr 16 2013 01:13:51 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 01:16:02 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 01:16:24 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 01:16:48 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 04:42:10 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 05:19:41 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 05:20:03 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 05:21:59 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 05:22:11 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 05:22:54 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 05:23:38 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 05:38:29 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 06:04:09 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 06:05:21 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 06:05:43 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 06:07:33 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 06:07:50 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 06:08:05 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 23:05:34 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 16 2013 23:06:17 GMT+0900 (대한민국 표준시)
+start log :Thu Apr 18 2013 11:48:22 GMT+0900 (대한민국 표준시)
+http_cmd
+require('./http_cmd.js')
+http_cmd
+a = require('./http_cmd.js')
+a
+a.http_cmd
+a
+http_cmd
+global
+process
+process.memoryUsage()
+start log :Thu Apr 18 2013 11:55:10 GMT+0900 (대한민국 표준시)
+process
+process._events.
+process._events
+process._events.SIGHUP
+process._events.SIGWINCH
+process.emit('SIGHUP')
+start log :Thu Apr 18 2013 12:02:39 GMT+0900 (대한민국 표준시)
+process.kill(32,'SIGHUP')
+process.kill(132,'SIGHUP')
+process.kill(32)
+start log :Thu Apr 18 2013 12:04:17 GMT+0900 (대한민국 표준시)
+process._event
+process._events
+process.kill(5476,'SIGHUP')
+process.kill(process.pid,'SIGHUP')
+process._kill(5476,'SIGHUP')
+process._kill(5476)
+process._kill(5476,'SIGTERM')
+process._kill
+process._kill()
+process._kill(5476,1)
+process._kill(5476,2)
+start log :Thu Apr 18 2013 12:19:33 GMT+0900 (대한민국 표준시)
+process._kill(5988,3)
+process._kill(5988,4)
+process._kill(5988,5)
+process._kill(5988,10005)
+process._kill(5988,10001)
+process._kill(5988,20001)
+a = process.binding('constants')
+process._events
+process.constants
+process.lazyConstants()
+a
+acUtil.fs.writeFile('lazy_constants.json',JSON.stringify(a))
+JSON.stringify(a)
+JSON.stringify(a,null,'\t')
+acUtil.fs.writeFile('lazy_constants.json',JSON.stringify(a, null, '\t'))
+start log :Thu Apr 18 2013 12:46:24 GMT+0900 (대한민국 표준시)
+process._kill(5716,'SIGINT')
+process._kill(5716,2)
+start log :Thu Apr 18 2013 12:47:27 GMT+0900 (대한민국 표준시)
+process._kill(2752,4)
+process.kill(2752,'SIGILL')
+process.kill(2752,'SIGABRT')
+process.kill(2752,'SIGKILL')
+start log :Thu Apr 18 2013 12:50:53 GMT+0900 (대한민국 표준시)
+process._evetns
+process._events
+start log :Mon Apr 22 2013 13:14:21 GMT+0900 (대한민국 표준시)
+require('acDgram.js')
+require('./acDgram.js')
+acDgram
+start log :Mon Apr 22 2013 13:17:21 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+acDgram
+a1 = new acDgram()
+a2 = new acDgram()
+a1.create('test1',111)
+a2.create('test1',112)
+t1 = '한글테스트'
+a1.send(t1,'localhost',112)
+a2.send(t1,'localhost',111)
+acDgram
+a1
+s2
+a2
+require('./acDgram.js')
+acDgram
+start log :Mon Apr 22 2013 13:59:08 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+acDgram
+a1 = new acDgram()
+a2 = new acDgram()
+a1.create('1',111)
+a2.create('2',112)
+a1.sampleEvent()
+a2.sampleEvent()
+t = {pt:'/sample',name:'tester1'}
+ts = JSON.stringify(t)
+a1.send(ts,'localhost',112)
+start log :Mon Apr 22 2013 14:02:40 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a1 = new acDgram()
+a2 = new acDgram()
+a1.create('1',111)
+a2.create('2',112)
+a1.sampleEvent()
+a2.sampleEvent()
+t = {pt:'/sample',name:'tester1'}
+ts = JSON.stringify(t)
+a1.send(ts,'localhost',112)
+a1.events
+a1.create
+start log :Mon Apr 22 2013 14:09:52 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a1 = new acDgram()
+a2 = new acDgram()
+a1.create('1',111)
+a2.create('2',112)
+a1.sampleEvent()
+a2.sampleEvent()
+t = {pt:'/sample',name:'tester1'}
+ts = JSON.stringify(t)
+a1.send(ts,'localhost',112)
+start log :Mon Apr 22 2013 14:12:54 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a1 = new acDgram()
+a2 = new acDgram()
+a1.create('1',111)
+a2.create('2',112)
+a1.sampleEvent()
+a2.sampleEvent()
+t = {pt:'/sample',name:'tester1'}
+ts = JSON.stringify(t)
+a1.send(ts,'localhost',112)
+start log :Mon Apr 22 2013 14:14:37 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a1 = new acDgram()
+a1.create('1',111)
+a2 = new acDgram()
+a2.create('2',112)
+a1.sampleEvent()
+a2.sampleEvent()
+t = {pt:'/sample',name:'tester1'}
+ts = JSON.stringify(t)
+a1.send(ts,'localhost',112)
+start log :Mon Apr 22 2013 16:39:21 GMT+0900 (대한민국 표준시)
+help
+require('./acDgram.js')
+a1 = new acDgram()
+a1.create('1',111)
+a2 = new acDgram()
+a2.create('2',112)
+a1.sampleEvent()
+a2.sampleEvent()
+t = {pt:'/sample',name:'tester1'}
+ts = JSON.stringify(t)
+a1.send(ts,'localhost',112)
+require('./acProtocolManager.js')
+acPTMNG
+acPTMNG.construct_pt
+acPTMNG.construct_pt('login')
+acPTMNG.list
+acPTMNG.findList('/cs_login')
+a = acPTMNG.findList('/cs_login')
+a
+b = new Buffer(a)
+b
+b.toString()
+b = new Buffer(JSON.stringify(a))
+b.toString()
+require.cache
+require.cache['./acProtocolManager.js']
+delete require.cache
+require.cache
+acPTMNG
+require('./acProtocolManager')
+acPTMNG
+require.cache
+require('./acProtocolManager.js')
+require.cache
+acPTMNG
+require.cache = {}
+require('./acProtocolManager.js')
+require.cache
+require
+require.resolve
+require.resolve('./acProtocolManager.js')
+n = require.resolve('./acProtocolManager.js')
+delete require.cache[n]
+acPTMNG
+require('./acProtocolManager.js')
+acPTMNG
+n = require.resolve('./acProtocolManager.js')
+delete require.cache[n]
+n = require.resolve('./acProtocolManager.js')
+acPTMNG = {}
+acPTMNG
+n = require.resolve('./acProtocolManager.js')
+require('./acProtocolManager.js')
+acPTMNG
+acProtocolManager
+acProtocolManager = {}
+acProtocolManager
+acProtocolManager
+require('./acProtocolManager.js')
+acProtocolManager
+acPTMNG
+n = require.resolve('./acProtocolManager.js')
+delete require.cache[n]
+require('./acProtocolManager.js')
+acPTMNG
+acProtocolManager
+delete acPTMNG
+delete acProtocolManager
+acPTMNG
+acProtocolManager
+require('./acProtocolManager.js')
+acPTMNG
+delete require.cache[n]
+require('./acProtocolManager.js')
+acPTMNG
+delete acProtocolManager
+delete acPTMNG
+delete require.cache[n]
+delete require.cache[n]
+delete require.cache[n]
+delete require.cache[n]
+delete require.cache[n]
+delete require.cache[n]
+delete require.cache[n]
+delete require.cache[n]
+delete require.cache[n]
+n
+delete require.cache[n]
+delete require.cache[n]
+delete require.cache[n]
+start log :Mon Apr 22 2013 19:27:18 GMT+0900 (대한민국 표준시)
+acPTMNG
+require('./acProtocolManager.js')
+acPTMNG
+n = require.resolve('acProtocolManager.js')
+n = require.resolve('./acProtocolManager.js')
+require.cache[n]
+delete require.cache[n]
+require.cache[n]
+acPTMNG
+delete acPTMNG
+acPTMNG
+acProtocolManager
+delete acProtocolManager
+acProtocolManager
+require('./acProtocolManager.js')
+require.cache[n]
+acPTMNG
+acProtocolManager
+n = require.resolve('acProtocolManager.js')
+n
+start log :Mon Apr 22 2013 19:34:20 GMT+0900 (대한민국 표준시)
+acUtil.deleteRequireCache
+require('./acProtocolManager.js')
+acUtil.deleteRequireCache('acProtocolManager.js')
+n = require.resolve('./acProtocolManager.js')
+require.cache[n]
+acUtil.deleteRequireCache('./acProtocolManager.js')
+acUtil.deleteRequireCache('acProtocolManager')
+acUtil.deleteRequireCache('acProtocolManager.js')
+start log :Tue Apr 23 2013 10:43:59 GMT+0900 (대한민국 표준시)
+12342 * 1234
+a = function(a) { return a+a; }
+a (1)
+help()
+db_rage_connect()
+find
+find('rage_login',{},{})
+find('rage_user_activity',{},{})
+help
+help()
+start log :Tue Apr 23 2013 10:49:50 GMT+0900 (대한민국 표준시)
+restartJSS
+restartJSS
+start log :Tue Apr 23 2013 10:50:51 GMT+0900 (대한민국 표준시)
+restartJSS
+start log :Tue Apr 23 2013 10:50:57 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 23 2013 10:51:06 GMT+0900 (대한민국 표준시)
+dir()
+process.cwd()
+process
+start log :Tue Apr 23 2013 10:52:07 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 23 2013 10:53:38 GMT+0900 (대한민국 표준시)
+restartJSSrestartJSSrestartJSSrestartJSSrestartJSS
+restartJSS
+acUtil.pidSave(__filename);
+console.log(process.pid);
+console.log(process.pid);
+console.log(process.pid);
+console.log(process.pid);
+console.log(process.pid);
+console.log(process.pid);
+console.log(process.pid);
+console.log(process.pid);
+process.pid
+start log :Tue Apr 23 2013 10:56:13 GMT+0900 (대한민국 표준시)
+한글을 얼마나
+한 = '한글이다'
+한
+console.log('한글')
+start log :Tue Apr 23 2013 10:58:59 GMT+0900 (대한민국 표준시)
+start log :Tue Apr 23 2013 10:59:15 GMT+0900 (대한민국 표준시)
+a
+a = '1' || 1
+a = '1' || 2
+a = '1' || '2'
+a
+typeof a
+a
+console.log(a")
+console.log(a)
+start log :Tue Apr 23 2013 11:04:20 GMT+0900 (대한민국 표준시)
+a = '1' || 1
+a
+typeof a
+process.cwd()
+a
+a
+123
+1234
+1234
+123
+412
+3412
+3412
+341
+start log :Tue Apr 23 2013 11:35:36 GMT+0900 (대한민국 표준시)
+a = '1' || 1
+a
+a
+a
+a
+a = '1234' || './'
+a
+a.length
+a = '' | 'qwer'
+a
+a
+a
+a = null || 'asdf'
+a
+a = '' || 'asdfasd'
+a
+a = 0 || 1234
+a = 1 || 1234
+typeof a
+start log :Tue Apr 23 2013 12:14:28 GMT+0900 (대한민국 표준시)
+require('./test_json_object.js')
+testNode
+a = getTestNode()
+a.a = 2
+a
+testNode
+f = './test_json_object.js'
+n = require.resolve(f)
+delete require.cache[n]
+require(f)
+newTestNode
+b = newTestNode()
+b.a
+b.a  =2
+b
+testNode
+testNode.a = 3
+b
+delete require.cache[n]
+require(f)
+b
+testNode
+testNode.a = 5
+b
+b = newTestNode()
+b
+b.a = 7
+testNode
+b
+testNode.a = 1
+testNode
+b
+start log :Tue Apr 23 2013 15:11:40 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a1 = new acDgram()
+a1.create('1',111)
+t = {pt:'/sample',txt:'한글이다'}
+ts = JSON.stringify(t)
+a1.send(ts,'14.63.224.251',19999)
+a1.send
+a1.send(ts,'14.63.224.251',29999)
+a1.send(ts,'14.63.224.251',29999)
+a1.send(ts,'14.63.224.251',48888)
+날짜 = Date
+날짜()
+새 = new
+새 = function(__t) { return new  _t(); }
+새 = function(__t) { return new  _t(); }
+새 = function(__t) { return new  _t(); }
+새 = function(__t) { return new  __t(); }
+새(날짜)
+날짜
+날짜()
+날짜()
+날짜()
+날짜()
+새(날짜)
+새(날짜)
+새(날짜)
+서버 = 새(acDgram)
+서버
+서버.create('t3',123)
+서버.send('날짜','localhost',112)
+서버.send('날짜','localhost',1121
+서버.send('날짜','localhost',111)
+acUtil.writeJSON
+acUtil.JSONtoString
+data1 = acUtil.JSONtoString(서버)
+서버
+b = 서버
+b
+data1 = acUtil.JSONtoString
+data1 = acUtil.JSONtoString(b)
+data1 = acUtil.JSONtoString
+data1
+j2s = acUtil.JSONtoString
+j2s(b)
+restartJSS(0
+start log :Tue Apr 23 2013 17:32:55 GMT+0900 (대한민국 표준시)
+j2s = acUtil.JSONtoString
+help
+require('./acDgram.js')
+a1 = new acDgram()
+d = j2s(a1)
+d
+acUtil.fs.writeFile('./test_obj_write.json',d,'utf8',function(err){})
+d.create
+d
+a1.create
+a1.create = function() { return 'test'; }
+a1.create
+acDgram
+d2 = j2s(a1)
+d2
+acDgram
+d2 = j2s(acDgram)
+d2
+d2 = acDgram.toString()
+d2
+start log :Tue Apr 23 2013 18:11:58 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+j2s = acUtil.JSONtoString
+d = j2s(acDgram)
+d
+d1 = new acDgram()
+d1
+b = j2s(d1)
+b
+start log :Tue Apr 23 2013 18:17:07 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a = new acDgram()
+j2s = acUtil.JSONtoString
+d = j2s(a)
+a.eventEnable = true
+a
+d = j2s(a)
+restartJSS(0
+start log :Tue Apr 23 2013 18:19:49 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+j2s = acUtil.JSONtoString
+a = new acDgram()
+d = j2s(a)
+a.eventEnable
+print
+print(a.eventEnable)
+a.eventEnable = true;
+print(a.eventEnable)
+d = j2s(a)
+a.eventEnable = false
+print(a.eventEnable)
+d = j2s(a)
+a.server
+print(a.server)
+a.server = {}
+print(a.server)
+d = j2s(a)
+a === acDgram
+print(a===acDgram)
+b = a
+print(a===b)
+start log :Tue Apr 23 2013 18:38:59 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a = new acDgram()
+a.server = a
+j2s = acUtil.JSONtoString
+d = j2s(a)
+start log :Tue Apr 23 2013 18:40:57 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a = new acDgram()
+a.server = a
+j2s = acUtil.JSONtoString
+d = j2s(a)
+restartJSS(0
+start log :Tue Apr 23 2013 18:43:11 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a = new acDgram()
+a.server = a
+j2s = acUtil.JSONtoString
+d = j2s(a)
+a.clients
+a.clients.push(a)
+a
+a.clients.push(a)
+d = j2s(a)
+restartJSS(0
+start log :Tue Apr 23 2013 18:46:50 GMT+0900 (대한민국 표준시)
+require('./acDgram.js')
+a = new acDgram()
+a.server = a
+a.clients.push(a)
+a.clients.push(a)
+a
+j2s = acUtil.JSONtoString
+d = j2s(a)
+b
+b = new acDgram()
+a.server
+a
+a.server = b
+a
+b
+b.server = a
+b
+a
+d = j2s(a0
+d = j2s(a)
+start log :Wed Apr 24 2013 10:01:26 GMT+0900 (대한민국 표준시)
+start log :Fri Apr 26 2013 09:32:23 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.list
+acPTMNG.construct_pt('login')
+acPTMNG.list
+acPTMNG.findList('sc_login')
+a = acPTMNG.findList('sc_login')
+a
+print(a)
+a = acPTMNG.findList('/sc_login')
+start log :Fri Apr 26 2013 11:45:12 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.list
+acPTMNG.saveList('sc_login')
+start log :Fri Apr 26 2013 11:47:58 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.list
+acPTMNG.saveList('cs_login')
+start log :Fri Apr 26 2013 11:53:22 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login','socket')
+acPTMNG.list
+acPTMNG.saveList('sc_login')
+start log :Fri Apr 26 2013 12:01:12 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.list
+acPTMNG.saveList('cs_login')
+restartJSS(0
+start log :Fri Apr 26 2013 12:02:55 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.list
+acPTMNG.saveList('cs_login')
+start log :Fri Apr 26 2013 12:10:13 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.list
+acPTMNG.saveList('cs_login')
+acPTMNG.construct_pt('login2', 'socket')
+acPTMNG.saveList('cs_login2')
+start log :Fri Apr 26 2013 12:12:31 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login','socket')
+acPTMNG.saveList('cs_login')
+acPTMNG.list
+a = acPTMNG.findList('cs_login')
+a.seqType = 'http'
+acPTMNG.saveList('cs_login')
+a
+acPTMNG.list
+a
+start log :Fri Apr 26 2013 16:05:11 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.saveList('cs_login')
+acPTMNG.list
+start log :Fri Apr 26 2013 16:06:36 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.saveList('cs_login')
+start log :Fri Apr 26 2013 16:13:24 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.saveList('cs_login')
+start log :Fri Apr 26 2013 16:14:54 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.construct_pt('login')
+acPTMNG.saveList('cs_login')
+acPTMNG.list
+restartJSS
+start log :Fri Apr 26 2013 16:25:10 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.loadProtocolList()
+acPTMNG.saveProtocolList()
+acPTMNG.loadProtocolList()
+acPTMNG.list
+acPTMNG.construct_pt('login')
+acPTMNG.saveProtocolList()
+acPTMNG.loadProtocolList()
+acPTMNG.construct_pt('login2')
+acPTMNG.saveProtocolList()
+acPTMNG.list
+acPTMNG.loadProtocolList()
+l = acPTMNG.list
+l.cs_login
+l./cs_login
+l['/cs_login']
+l['/cs_login2']
+start log :Fri Apr 26 2013 16:38:32 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+pt = acPTMNG
+pt.construct_pt('login','http','login')
+pt.construct_pt('signin','http','login')
+pt.list
+pt.saveProtocolList()
+pt.saveSeq('cs_login')
+pt.saveSeq('cs_signin')
+start log :Fri Apr 26 2013 16:45:57 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+pt =  acPTMNG
+pt.loadProtocolList()
+pt
+pt.list
+start log :Fri Apr 26 2013 16:47:21 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.loadProtocolList()
+start log :Fri Apr 26 2013 16:49:47 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.loadProtocolList()
+acPTMNG.saveAllSeq()
+start log :Fri Apr 26 2013 16:50:43 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.loadProtocolList()
+acPTMNG.saveAllSeq()
+acPTMNG.list
+start log :Fri Apr 26 2013 16:53:56 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.loadProtocolList()
+acPTMNG.saveAllSeq()
+start log :Fri Apr 26 2013 16:55:36 GMT+0900 (대한민국 표준시)
+require('./acProtocolManager.js')
+acPTMNG.loadProtocolList()
+acPTMNG.saveAllSeq()
+acPTMNG.construct_pt('finduser','http','login')
+acPTMNG.list
+acPTMNG.saveProtocolList()
+acPTMNG.saveAllSeq()
+restartJSS
+start log :Fri Apr 26 2013 17:36:47 GMT+0900 (대한민국 표준시)
+acUtil.loadjs
+acUtil.loadjs('./acProtocolManager.js')
+acPTMNG
+acPTMNG.loadProtocolList()
+acPTMNG.list
+n = require.resolve('./acProtocolManager.js')
+restartJSS
+start log :Fri Apr 26 2013 17:39:57 GMT+0900 (대한민국 표준시)
+acPTMNG
+acUtil.loadjs('./acProtocolManager.js')
+acPTMNG
+n = require.resolve('./acProtocolManager.js')
+require.cache[n]
+acPTMNG.loadProtocolList()
+acPTMNG.list
+acPTMNT
+acPTMNG
+acUtil.loadjs('./acProtocolManager.js')
+acPTMNG
+acPTMNG.loadProtocolList()
+acPTMNG.setAttr('cs_login',{seqType:'socket'})
+acPTMNG.list
+acPTMNG.loadProtocolList()
+acPTMNG.list
+acPTMNG.loadProtocolList()
+acUtil.loadjs('./acProtocolManager.js')
+start log :Mon Apr 29 2013 10:00:43 GMT+0900 (대한민국 표준시)
+restartJSS(0
+start log :Mon Apr 29 2013 11:16:11 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 29 2013 11:26:17 GMT+0900 (대한민국 표준시)
+restartJSS()
+start log :Mon Apr 29 2013 11:26:28 GMT+0900 (대한민국 표준시)
+restartJSS()
+start log :Mon Apr 29 2013 11:27:30 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 29 2013 11:27:56 GMT+0900 (대한민국 표준시)
+start log :Mon Apr 29 2013 11:28:32 GMT+0900 (대한민국 표준시)
+restartJSS()
+start log :Mon Apr 29 2013 11:28:37 GMT+0900 (대한민국 표준시)
+restartJSS()
+start log :Mon Apr 29 2013 11:28:47 GMT+0900 (대한민국 표준시)
+acUtil.fs
+start log :Tue Apr 30 2013 09:38:40 GMT+0900 (대한민국 표준시)
+acUtil.loadjs('./acDoc.js')
+start log :Tue Apr 30 2013 13:56:26 GMT+0900 (대한민국 표준시)
+acUtil.loadjs('./acDoc.js')
+acDoc.load('./manager_client_doc.txt',{text:1},function(doc){global.d = doc;})
+d
+d.length
+acUtil.loadjs('./acDoc.js')
+start log :Tue Apr 30 2013 14:08:23 GMT+0900 (대한민국 표준시)
+acUtil.loadjs('./acDoc.js')
+start log :Tue Apr 30 2013 14:09:13 GMT+0900 (대한민국 표준시)
+a_1 = 1
+a_1
+acUtil.loadjs('./acDoc.js')
+acDoc_doc
+j2s = acUtil.JSONtoString
+c = j2s(acDoc_doc)
+c
+acUtil.loadjs('./acDoc.js')
+acDoc.documents
+c = j2s(acDoc.documents)
+d = acDoc.documents
+d.update.0.issue
+d.update[0].issue
+d.object
+d.members
+d

@@ -1,0 +1,5 @@
+{
+	hosts : [
+		{ip : 'localhost', port : 111,},
+	],
+}

@@ -1,0 +1,10 @@
+{
+	hosts : [
+		{ip : 'localhost', port : 111,},
+	],
+	files : [
+		{path : '../rage_rage/', file : 'config_rage_room_socket.js', port : 10001},
+		{path : '../rage_rage/', file : 'config_rage_room_socket.js', port : 10002},
+		{path : '../rage_rage/', file : 'config_rage_room_socket.js', port : 10003},
+	],
+}

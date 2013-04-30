@@ -1,0 +1,47 @@
+
+{"name": "cs_finduser",
+"req": 
+    {"format": 
+        {"get": 
+            {"path": "/cs_finduser"
+            }
+        },
+    "handle_update": function (response, request, json) {
+				///{0}
+			},
+    "handle": function (response, request) {
+				var json = {};
+				var body = '';
+				var retPT = {"pt": "/sc_finduser","ret": 1}; // || {ret:1};
+				var errorRet = function() {
+					retPT.ret = -1;
+					body = JSON.stringify(retPT);
+					return acUtil.response_text(response, body);
+				}
+				var handleCall = function() {
+					return acUtil.sequence['cs_finduser'].req.handle_update(response, request, json);
+				}
+				// 01 GET
+				if (request.method != 'POST') {
+					json = acUtil.urlParse(request.url, "data");
+					if (!json) return errorRet();
+					return handleCall();
+				}
+
+				// 02 POST
+				request.on('data', function (data) {
+					body += data;
+				});
+				request.on('end', function () {
+					try {
+						json = JSON.parse(body);
+						if (!json) return errorRet();
+						return handleCall();
+					}
+					catch(err) {
+						return errorRet();
+					}
+				});
+			}
+    }
+}

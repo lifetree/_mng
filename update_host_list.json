@@ -1,0 +1,17 @@
+{
+	hosts : [
+		{ip : 'localhost', port : 111,},
+	],
+	files : [
+		{spath : './', sfile : 'http_cmd.js',
+			dpath : '../_starter_update/', dfile : '1.js',},
+		{spath : './', sfile : 'http_cmd.js',
+			dpath : '../_starter_update/', dfile : '2.js',},
+		{spath : './', sfile : 'http_cmd.js',
+			dpath : '../_starter_update/', dfile : '3.js',},
+		{spath : './', sfile : 'http_cmd.js',
+			dpath : '../_starter_update/', dfile : '4.js',},
+		{spath : './', sfile : 'http_cmd.js',
+			dpath : '../_starter_update/', dfile : '5.js',},
+	],
+}

@@ -1,0 +1,53 @@
+
+{"/cs_login": 
+    {"protocol": 
+        {"pt": "/cs_login"
+        },
+    "retPT": 
+        {"pt": "/sc_login",
+        "ret": 1
+        },
+    "seqName": "cs_login",
+    "seqType": "http",
+    "path": "./",
+    "text": "text",
+    "version": "0.1.0",
+    "project": "project",
+    "service": "login",
+    "file": "seq_login_cs_login.json"
+    },
+"/cs_signin": 
+    {"protocol": 
+        {"pt": "/cs_signin"
+        },
+    "retPT": 
+        {"pt": "/sc_signin",
+        "ret": 1
+        },
+    "seqName": "cs_signin",
+    "seqType": "http",
+    "path": "./",
+    "text": "text",
+    "version": "0.1.0",
+    "project": "project",
+    "service": "login",
+    "file": "seq_login_cs_signin.json"
+    },
+"/cs_finduser": 
+    {"protocol": 
+        {"pt": "/cs_finduser"
+        },
+    "retPT": 
+        {"pt": "/sc_finduser",
+        "ret": 1
+        },
+    "seqName": "cs_finduser",
+    "seqType": "http",
+    "path": "./",
+    "text": "text",
+    "version": "0.1.0",
+    "project": "project",
+    "service": "login",
+    "file": "seq_login_cs_finduser.json"
+    }
+}

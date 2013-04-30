@@ -1,0 +1,76 @@
+//vpn_stmk_lifetree98	 u*42p6yz	 이균석님	 lifetree98@9groove.co.kr	 010-5891-7205
+
+// 2013-04-10 15:25
+// title : manager client
+//	1. server start
+//		1) flow
+//			manager_client --> starter_httpserver --> each server
+//		2) http_cmd
+//			.start
+//			.batchStart
+//			.batchStartStartFromTest
+//			.batchStartStartFromFile
+//	2. server restart
+//		1) flow
+//			manager_client --> each server
+//		2) http_cmd
+//			.restart
+//			.batchRestart
+//			.batchRestartStartFromTest
+//			.batchRestartStartFromFile
+//	3. server config update
+//		1) flow
+//			manager_client --> starter_httpserver --> each server
+//		2) http_cmd
+//			.update
+//			.batchUpdate
+//			.batchUpdateStartFromTest
+//			.batchUpdateStartFromFile
+//	4. server version
+//	5. mongodb shell
+//		1) flow
+//			manager_client --> each mongodb server
+//		2) acClientMongodb
+//			.dbSetHost
+//			.dbSetDatabase
+//			.dbClearCollection
+//			.dbSetCollection
+//			.dbConnect
+//			dbClose
+//			insert
+//			ensureIndex
+//			update
+//			remove
+//			count
+//			findDocs
+//			findAndModify
+//			find
+//	99. todo
+//	2013-04-11
+//	- 자바스크립트 기반 쉘 설정
+//	- http client 구성
+//	- mongodb 구성
+//	- mongodb::kickass(pocketwars) 구성
+//	2013-04-23
+//	- protocol 관리자
+//	- config 관리자
+//	- project 관리자
+//	- source 관리자
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
